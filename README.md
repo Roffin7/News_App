@@ -1,16 +1,22 @@
-# task1
+# NewsApp
 
-A new Flutter project.
+Welcome to **NewsApp**, a Flutter-based application designed to provide the latest news updates in a user-friendly interface.
+
+## Features
+- Fetch and display the latest news articles.
+- Categorized news for easy navigation.
+- Responsive and intuitive UI.
 
 ## Getting Started
+To explore the app's functionality and implementation, check the `lib` folder for the source code.
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run `flutter pub get` to install dependencies.
+4. Use `flutter run` to launch the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Folder Structure
+- `lib/`: Contains the main application logic and UI components.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore and contribute!
